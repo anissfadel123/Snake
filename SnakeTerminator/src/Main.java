@@ -20,7 +20,7 @@ public class Main {
 		
 		
 		frame.getContentPane().setLayout(null);
-		frame.getContentPane().setBackground(Color.white);
+		frame.getContentPane().setBackground(Color.black);
 	
 		
 		frame.setVisible(true);
