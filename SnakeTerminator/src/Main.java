@@ -32,7 +32,7 @@ public class Main {
 		title = new ImageIcon("Title.png");
 		label = new JLabel(title);
 		frame.getContentPane().add(label);
-		label.setBounds(50, 0, 700, 70);
+		label.setBounds(50, 10, 700, 70);
 		
 		frame.getContentPane().add(game);
 		game.setLocation(50, 90);
