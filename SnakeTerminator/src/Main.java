@@ -22,9 +22,10 @@ public class Main {
 		frame.getContentPane().setLayout(null);
 		frame.getContentPane().setBackground(Color.black);
 	
-		
-		frame.setVisible(true);
 		frame.setSize(800, 600);
+		
+		
+		
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
@@ -38,6 +39,7 @@ public class Main {
 		game.setLocation(50, 90);
 		
 		
+		frame.setVisible(true);
 		
 
 		
